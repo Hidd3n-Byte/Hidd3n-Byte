@@ -1,16 +1,25 @@
-## Hi there 👋
+<h2> Hi, I’m @Hidd3n-Byte</h2>
 
-<!--
-**Hidd3n-Byte/Hidd3n-Byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in Game Hacking, Hardware, 3D/2D Graphics
+- 🌱 I’m currently learning 3D/2D Graphics
+- 🔭 I’m currently working on 3D/2D Graphics
+- 🙂 Connect with me
+  - My Website [Hidd3n-Byte.github.io](https://Hidd3n-Byte.github.io)
+  - My Youtube Channel [Hidden Byte](https://www.youtube.com/@HiddenByte1)
+- 🧑‍💻 Experience
+  - Languages
+    - C#
+    - C/C++
+  - Other
+    - Game Modding
+    - Reverse Engineering
+- 🔧 Tools
+  - Code Editors
+    - CLion
+    - Visual Studio 2022
+    - Rider
+  - Disassemblers
+    - IDA Pro 7.7
+  - Other
+    - Cheat Engine
+    - Reclass.net
